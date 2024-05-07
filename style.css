@@ -139,3 +139,11 @@ pre{
     margin-top:20px;
     margin-bottom: 10px;
 }
+    .b:hover{
+    
+    height:375px;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
