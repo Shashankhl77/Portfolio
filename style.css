@@ -70,8 +70,6 @@ margin-bottom: 10px;
     border: 1px solid black;
     border-radius: 5px;
 }
-.education h3{
-    text-align:center;
 .position{
     position: relative;
     top: 30px;
@@ -139,4 +137,18 @@ pre{
     margin-top:20px;
     margin-bottom: 10px;
 }
+.b:hover{
+    animation :anime 3s infinite ease-in-out alternate 3s;
 
+   
+}
+@keyframes anime {
+    to{
+        height:350px;
+        width: 275px;
+        padding: 20px;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+   
+}
